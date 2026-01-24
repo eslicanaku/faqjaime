@@ -8,7 +8,7 @@ nav{
 }
 
 nav a{
-  beground-color: #DA746F;
+  background-color: #DA746F;
   color: #FFFAFE;
   text-decoration: none;
   border: 2px solid #DA746F;
@@ -25,10 +25,6 @@ td img{
 
 footer{
   background-color: #DA746F;
-}
-
-footer h3, footer p{
-  background-color: #FFFAFE;
   color: #1A1A1D;
 }
 
