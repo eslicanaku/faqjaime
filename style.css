@@ -1,7 +1,35 @@
-p{
-  color: blue
+header h4{
+  background-color: #D6304C
+  color: #1A1A1D
+}
+
+nav{
+  paddle: 5px;
+}
+
+nav a{
+  beground-color: #DA746F;
+  color: #FFFAFE;
+  text-decoration: none;
+  border: 2px solid #DA746F;
 }
 
 h1{
-  background-color: lightblue
+  color: #D6304C;
 }
+
+td img{
+  width:200px;
+  heigh: 200px;
+}
+
+footer{
+  background-color: #DA746F;
+}
+
+footer h3, footer p{
+  background-color: #FFFAFE;
+  color: #1A1A1D;
+}
+
+
